@@ -10,4 +10,5 @@ this is a Method ransform_dataset_from_2D_to_3D. As we have an excellent segmeta
 * save the classified poinclouds segmentation result.
 
 ## feature 
-the presicion of this method basicly depends on the 2D segmentaion result. So in simple scene it should be excellent.
+The presicion of this method basicly depends on the 2D segmentaion result. So in simple scene its performance is excellent.
+For detailed visual results, you can browse the another [repo](https://github.com/wangzivector/object_detection-Qt-PCL-ROS-GUI）
