@@ -1,4 +1,4 @@
-# Quickly_Transform_Dataset_from_2D_to_3D
+# Quickly Create 3D Models using 2D Instance Segmentation
 this is a Method ransform_dataset_from_2D_to_3D. As we have an excellent segmetation outcome in 2D image, it can be helpful to create 3D dataset easily. 
 
 ## baisc steps
